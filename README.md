@@ -5,4 +5,4 @@ $ pkg install python
 $ git clone https://github.com/Silentxploit-arya/Silentxploit-arya
 $ cd Silentxploit-arya
 $ ls
-$
+$ python aryagrabtxt.py
